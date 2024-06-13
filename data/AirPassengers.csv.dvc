@@ -1,0 +1,5 @@
+outs:
+- md5: e167fec57f6809a4e9f580aeddb8b7f5
+  size: 1878
+  hash: md5
+  path: AirPassengers.csv

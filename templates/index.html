@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Airline Passenger Satisfaction Prediction</h2>
+
+<form action="/predict" method="post">
+  <label for="Online_boarding">Online Boarding Rating(0-5)</label><br>
+  <input type="text" id="Online_boarding" name="Online_boarding"><br><br>
+
+  <label for="Seat_comfort">Seat comfort Rating(0-5)</label><br>
+  <input type="text" id="Seat_comfort" name="Seat_comfort"><br><br>
+
+  <label for="Leg_room_service">Leg room Rating(0-5)</label><br>
+  <input type="text" id="Leg_room_service" name="Leg_room_service"><br><br>
+
+  <label for="Inflight_wifi_service">Inflight wifi service Rating(0-5)</label><br>
+  <input type="text" id="Inflight_wifi_service" name="Inflight_wifi_service"><br><br>
+
+  <label for="Type_of_Travel">Purpose of the flight(0: Personal Travel, 1: Business Travel)</label><br>
+  <input type="text" id="Type_of_Travel" name="Type_of_Travel"><br><br>
+
+  <label for="Flight_Class">Class('Business': 0, 'Eco': 1, 'Eco Plus': 2)</label><br>
+  <input type="text" id="Flight_Class" name="Flight_Class"><br><br>
+
+  <label for="Inflight_entertainment">Inflight entertainment Rating(0-5)</label><br>
+  <input type="text" id="Inflight_entertainment" name="Inflight_entertainment"><br><br>
+
+
+  <input type="submit" value="Submit">
+</form>
+    <br>
+    <br>
+
+    <!-- Placeholder for predicted result -->
+    <h1>{{ prediction_text }}</h1>
+</body>
+</html>
