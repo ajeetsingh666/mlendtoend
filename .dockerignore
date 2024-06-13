@@ -4,3 +4,5 @@
 .venv/
 .docs/
 .dvcignore
+mlartifacts/
+mlruns/
