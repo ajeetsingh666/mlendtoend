@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/119657220277900733/08dbd29eba50493e8a2b4f50661d16be/artifacts
+end_time: 1718300333288
+entry_point_name: ''
+experiment_id: '119657220277900733'
+lifecycle_stage: active
+run_id: 08dbd29eba50493e8a2b4f50661d16be
+run_name: brawny-gull-342
+run_uuid: 08dbd29eba50493e8a2b4f50661d16be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718300327981
+status: 3
+tags: []
+user_id: Ajeet Singh

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/119657220277900733/238555839fa14701b423a1f40dc27f8f/artifacts
+deleted_time: 1718300301090
+end_time: 1718300244574
+entry_point_name: ''
+experiment_id: '119657220277900733'
+lifecycle_stage: deleted
+run_id: 238555839fa14701b423a1f40dc27f8f
+run_name: nimble-mole-59
+run_uuid: 238555839fa14701b423a1f40dc27f8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718300239381
+status: 4
+tags: []
+user_id: Ajeet Singh

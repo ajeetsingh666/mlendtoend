@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/119657220277900733/0be9024fadec4ab7a80b26e25df5858e/artifacts
+deleted_time: 1718300312215
+end_time: 1718300197134
+entry_point_name: ''
+experiment_id: '119657220277900733'
+lifecycle_stage: deleted
+run_id: 0be9024fadec4ab7a80b26e25df5858e
+run_name: wise-mare-576
+run_uuid: 0be9024fadec4ab7a80b26e25df5858e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718300196961
+status: 4
+tags: []
+user_id: Ajeet Singh

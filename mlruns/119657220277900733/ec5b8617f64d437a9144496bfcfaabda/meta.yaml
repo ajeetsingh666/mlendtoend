@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/119657220277900733/ec5b8617f64d437a9144496bfcfaabda/artifacts
+end_time: 1718300302178
+entry_point_name: ''
+experiment_id: '119657220277900733'
+lifecycle_stage: active
+run_id: ec5b8617f64d437a9144496bfcfaabda
+run_name: charming-eel-878
+run_uuid: ec5b8617f64d437a9144496bfcfaabda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718300296635
+status: 3
+tags: []
+user_id: Ajeet Singh

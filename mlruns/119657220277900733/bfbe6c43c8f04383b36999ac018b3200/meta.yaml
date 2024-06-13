@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/119657220277900733/bfbe6c43c8f04383b36999ac018b3200/artifacts
+end_time: 1718300324204
+entry_point_name: ''
+experiment_id: '119657220277900733'
+lifecycle_stage: active
+run_id: bfbe6c43c8f04383b36999ac018b3200
+run_name: rebellious-roo-42
+run_uuid: bfbe6c43c8f04383b36999ac018b3200
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718300318617
+status: 3
+tags: []
+user_id: Ajeet Singh

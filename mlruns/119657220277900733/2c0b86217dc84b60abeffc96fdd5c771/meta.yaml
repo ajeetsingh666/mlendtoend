@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/119657220277900733/2c0b86217dc84b60abeffc96fdd5c771/artifacts
+deleted_time: 1718300312214
+end_time: 1718300244554
+entry_point_name: ''
+experiment_id: '119657220277900733'
+lifecycle_stage: deleted
+run_id: 2c0b86217dc84b60abeffc96fdd5c771
+run_name: stylish-snake-758
+run_uuid: 2c0b86217dc84b60abeffc96fdd5c771
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718300244373
+status: 4
+tags: []
+user_id: Ajeet Singh

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/119657220277900733/c7a85cc482d6417f940d3138d858769d/artifacts
+deleted_time: 1718300301090
+end_time: 1718300197151
+entry_point_name: ''
+experiment_id: '119657220277900733'
+lifecycle_stage: deleted
+run_id: c7a85cc482d6417f940d3138d858769d
+run_name: tasteful-snail-526
+run_uuid: c7a85cc482d6417f940d3138d858769d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718300193593
+status: 4
+tags: []
+user_id: Ajeet Singh

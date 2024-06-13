@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/119657220277900733/de0fb5cd0a944c259185e4c5bb4e4601/artifacts
+end_time: 1718300344466
+entry_point_name: ''
+experiment_id: '119657220277900733'
+lifecycle_stage: active
+run_id: de0fb5cd0a944c259185e4c5bb4e4601
+run_name: enthused-calf-631
+run_uuid: de0fb5cd0a944c259185e4c5bb4e4601
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718300338854
+status: 3
+tags: []
+user_id: Ajeet Singh

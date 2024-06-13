@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/119657220277900733/b88fd07ceaa649b5b84ed840d53cf52a/artifacts
+end_time: 1718300364232
+entry_point_name: ''
+experiment_id: '119657220277900733'
+lifecycle_stage: active
+run_id: b88fd07ceaa649b5b84ed840d53cf52a
+run_name: nosy-robin-431
+run_uuid: b88fd07ceaa649b5b84ed840d53cf52a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718300358910
+status: 3
+tags: []
+user_id: Ajeet Singh
