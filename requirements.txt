@@ -1,7 +1,8 @@
-sklearn
+Flask
+scikit-learn
 keras
 tensorflow
 pandas
 numpy
 matplotlib
-Flask
+gunicorn

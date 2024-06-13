@@ -1,0 +1,6 @@
+.dvc
+.venv
+.dvc/
+.venv/
+.docs/
+.dvcignore
